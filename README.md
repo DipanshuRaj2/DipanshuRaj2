@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Dipanshu Raj</h1>
-<h3 align="center">A passionate cloud engineer from india </h3>
-
-
-<p align="left"> <a href="https://twitter.com/dipanshurajjmt" target="blank"><img src="https://img.shields.io/twitter/follow/dipanshurajjmt?logo=twitter&style=for-the-badge" alt="dipanshurajjmt" /></a> </p>
+<h3 align="center">A passionate cloud engineer  </h3>
 
 - 🌱 I’m currently learning **DSA , Cloud Computing**
-
+- 🤖 My interest is in **Devops technology and solving problem**
+- 😊 
 - 📫 How to reach me **dipanshurajjmt2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
