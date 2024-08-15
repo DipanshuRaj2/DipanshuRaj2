@@ -3,8 +3,8 @@
 <h3 align="center">A passionate cloud engineer  </h3>
 
 - 🌱 I’m currently learning **DSA , Cloud Computing**
-- 🤖 My interest is in **Devops technology and solving problem**
-- 😊 
+- 🤖 My interest is in **DevOps technology and solving problem**
+- 😊 In coding **persistence** is the key of success.
 - 📫 How to reach me **dipanshurajjmt2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
